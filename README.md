@@ -35,7 +35,7 @@ Xóa bảng:
 
 # Sqoop
 
-Dưới đây là một số lệnh cơ bản, các lệnh truy vấn cũng như import được hỗ trợ sinh tự động bằng file [cmd_generator.ipynb](./cmd_generator.ipynb).
+Dưới đây là một số lệnh cơ bản, các lệnh truy vấn cũng như import được hỗ trợ sinh tự động bằng file [script_generator.ipynb](./script_generator.ipynb).
 
 Show all databases:
 
