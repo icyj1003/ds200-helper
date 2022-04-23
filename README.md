@@ -51,6 +51,10 @@ Import all tables to hdfs:
 
 # Pig
 
+Khởi động pig:
+
+    pig
+
 Load data from HDFS into Pig relation
 
     employee = load 'employeeDetails.txt' using PigStorage(' ') as (id:int, name:chararray,salary:float,task:chararray);
