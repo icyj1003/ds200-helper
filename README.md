@@ -138,7 +138,7 @@ Tạo bảng với static partition:
 
 Import dữ liệu vào từng partition tương ứng:
 
-- File StudentHadoop.csv
+- File [StudentHadoop.csv](./slide%20and%20data/Hive%20dataset%20-%20Slide%205/Hive%20dataset%20-%20Slide%205/StudentHadoop.csv)
 
 ![student_hahoop](./images/student_hahoop.png)
 
@@ -163,4 +163,4 @@ Thiết lập Dynamic Partition:
 
 # Hue
 
-Xem Slide 5 từ trang 86 trở đi.
+Xem [Slide 5](./slide%20and%20data/Slide%205%20High-Level%20Data%20Process%20Components%20Tutorial.pdf) từ trang 86 trở đi.
